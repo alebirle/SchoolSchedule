@@ -1,0 +1,17 @@
+C:\Users\alexa\source\repos\SchoolSchedule\SchoolRepository\bin\Debug\net5.0\SchoolRepository.deps.json
+C:\Users\alexa\source\repos\SchoolSchedule\SchoolRepository\bin\Debug\net5.0\SchoolRepository.dll
+C:\Users\alexa\source\repos\SchoolSchedule\SchoolRepository\bin\Debug\net5.0\ref\SchoolRepository.dll
+C:\Users\alexa\source\repos\SchoolSchedule\SchoolRepository\bin\Debug\net5.0\SchoolRepository.pdb
+C:\Users\alexa\source\repos\SchoolSchedule\SchoolRepository\bin\Debug\net5.0\SchoolModel.dll
+C:\Users\alexa\source\repos\SchoolSchedule\SchoolRepository\bin\Debug\net5.0\SchoolModel.pdb
+C:\Users\alexa\source\repos\SchoolSchedule\SchoolRepository\obj\Debug\net5.0\SchoolRepository.csproj.AssemblyReference.cache
+C:\Users\alexa\source\repos\SchoolSchedule\SchoolRepository\obj\Debug\net5.0\SchoolRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\source\repos\SchoolSchedule\SchoolRepository\obj\Debug\net5.0\SchoolRepository.AssemblyInfoInputs.cache
+C:\Users\alexa\source\repos\SchoolSchedule\SchoolRepository\obj\Debug\net5.0\SchoolRepository.AssemblyInfo.cs
+C:\Users\alexa\source\repos\SchoolSchedule\SchoolRepository\obj\Debug\net5.0\SchoolRepository.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\SchoolSchedule\SchoolRepository\obj\Debug\net5.0\SchoolRepository.dll
+C:\Users\alexa\source\repos\SchoolSchedule\SchoolRepository\obj\Debug\net5.0\ref\SchoolRepository.dll
+C:\Users\alexa\source\repos\SchoolSchedule\SchoolRepository\obj\Debug\net5.0\SchoolRepository.pdb
+C:\Users\alexa\source\repos\SchoolSchedule\SchoolRepository\bin\Debug\net5.0\SchoolRepository.runtimeconfig.json
+C:\Users\alexa\source\repos\SchoolSchedule\SchoolRepository\bin\Debug\net5.0\SchoolRepository.runtimeconfig.dev.json
+C:\Users\alexa\source\repos\SchoolSchedule\SchoolRepository\obj\Debug\net5.0\SchoolRepository.genruntimeconfig.cache

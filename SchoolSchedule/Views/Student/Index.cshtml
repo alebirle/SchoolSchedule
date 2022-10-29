@@ -1,0 +1,24 @@
+﻿@model List<StudentViewModel> 
+@{
+    <div class="text-center">
+        <h1 class="display-4">Lista elevi</h1>
+        <table>
+            <thead>
+                <tr>
+                    <td>Nume</td>
+                    <td>Prenume</td>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach(var student in Model)
+                {
+                    <tr>
+                        <td>@student.LastName</td>
+                        <td>@student.FirstName</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+        @Html.ActionLink("Adauga elev", "AddStudent", "Student");
+    </div>
+        }

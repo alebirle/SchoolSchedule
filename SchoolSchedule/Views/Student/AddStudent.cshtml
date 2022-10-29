@@ -1,0 +1,11 @@
+﻿@model StudentViewModel
+@{
+    <div class="text-center">
+        <h1 class="display-4">Adauga un elev</h1>
+        <form method="post">
+            <input type="text" asp-for="LastName" placeholder="Nume"/>
+            <input type="text" asp-for="FirstName" placeholder="Prenume"/>
+            <button type="submit">Salveaza</button>
+        </form>
+    </div>
+}

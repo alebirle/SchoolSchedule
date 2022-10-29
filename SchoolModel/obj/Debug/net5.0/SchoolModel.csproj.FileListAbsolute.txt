@@ -1,0 +1,11 @@
+C:\Users\alexa\source\repos\SchoolSchedule\SchoolModel\bin\Debug\net5.0\SchoolModel.deps.json
+C:\Users\alexa\source\repos\SchoolSchedule\SchoolModel\bin\Debug\net5.0\SchoolModel.dll
+C:\Users\alexa\source\repos\SchoolSchedule\SchoolModel\bin\Debug\net5.0\ref\SchoolModel.dll
+C:\Users\alexa\source\repos\SchoolSchedule\SchoolModel\bin\Debug\net5.0\SchoolModel.pdb
+C:\Users\alexa\source\repos\SchoolSchedule\SchoolModel\obj\Debug\net5.0\SchoolModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\source\repos\SchoolSchedule\SchoolModel\obj\Debug\net5.0\SchoolModel.AssemblyInfoInputs.cache
+C:\Users\alexa\source\repos\SchoolSchedule\SchoolModel\obj\Debug\net5.0\SchoolModel.AssemblyInfo.cs
+C:\Users\alexa\source\repos\SchoolSchedule\SchoolModel\obj\Debug\net5.0\SchoolModel.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\SchoolSchedule\SchoolModel\obj\Debug\net5.0\SchoolModel.dll
+C:\Users\alexa\source\repos\SchoolSchedule\SchoolModel\obj\Debug\net5.0\ref\SchoolModel.dll
+C:\Users\alexa\source\repos\SchoolSchedule\SchoolModel\obj\Debug\net5.0\SchoolModel.pdb
